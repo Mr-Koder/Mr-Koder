@@ -24,7 +24,8 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 <!--- ![GitHub metrics](https://metrics.lecoq.io/Mr-koder) --->
 <br>
 
-## 🤝 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect with me 
+<!--- ## 🤝 Connect with me (old one) --->
+## 🤝 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">
 [<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' alt='github' height='40'>](https://Mr-Koder.github.io)
 <br>
 
