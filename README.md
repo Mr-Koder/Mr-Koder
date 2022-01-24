@@ -10,7 +10,7 @@ Mr-Koder/Mr-Koder is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github.com/Mr-Koder/Mr-Koder/blob/main/header.gif" height = "250" width="800" />
+<img src="https://github.com/Mr-Koder/Mr-Koder/blob/main/header.gif" height = "250" width="820" />
 
 <!---[![Visits Badge](https://badges.pufler.dev/visits/Mr-Koder/Mr-Koder)](https://Mr-Koder.github.io)--->
 ![Profile views](https://gpvc.arturio.dev/Mr-Koder)
@@ -40,15 +40,10 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 ## 💼 Skills
 
 [![C Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)](https://www.cprogramming.com)
-
 [![C++ Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=4AB197)](https://www.w3schools.com/cpp)
-
 [![Fortran Badge](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=Fortran&logoColor=white&color=4AB197)](https://fortran-lang.org)
-
 [![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)](https://www.python.org)
-
 [![Git Badge](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)](https://git-scm.com)
-
 [![SVN Badge](https://img.shields.io/badge/Code-SVN-informational?style=flat&logo=subversion&logoColor=white&color=4AB197)](https://subversion.apache.org)
 
 <details>
