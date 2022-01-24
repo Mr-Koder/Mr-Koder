@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 I'm Mr Koder, Upcoming ...
 Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io)
 
-![GitHub metrics](https://metrics.lecoq.io/Mr-koder) 
+<!--- ![GitHub metrics](https://metrics.lecoq.io/Mr-koder) --->
 <br>
 
 ## &#x1f4c8; GitHub Stats
