@@ -10,7 +10,7 @@ Mr-Koder/Mr-Koder is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github.com/Mr-Koder/Mr-Koder/blob/main/header.gif" height = "250" width="900" />
+<img src="https://github.com/Mr-Koder/Mr-Koder/blob/main/header.gif" height = "250" width="1100" />
 
 <!---[![Visits Badge](https://badges.pufler.dev/visits/Mr-Koder/Mr-Koder)](https://Mr-Koder.github.io)--->
 ![Profile views](https://gpvc.arturio.dev/Mr-Koder)
