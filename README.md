@@ -58,6 +58,8 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 
 <br>
 
+<!--- Don't use now ...
+
 ## 📣 How about an Office quote before you go?
 
 > {office_quote}
@@ -74,4 +76,5 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 
 <!-- BLOG-POST-LIST:END -->
 
+--->
 
