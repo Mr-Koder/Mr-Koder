@@ -80,7 +80,7 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
+<br>
 
 
 
