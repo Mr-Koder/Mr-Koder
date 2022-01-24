@@ -38,8 +38,7 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 <br>
 <br>
 
-<!--- ## 💼 Skills (old one) --->
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 25px width = 30px> Skills
+## 💼 Skills
 
 [![C Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)](https://www.cprogramming.com)
 [![C++ Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=4AB197)](https://www.w3schools.com/cpp)
