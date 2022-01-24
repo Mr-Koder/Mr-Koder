@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/)
 
 <h1> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-I'm Mr Koder, Upcoming ...
+I'm Mr Koder, Thank You for taking the time to view my GitHub Profile.
+
 Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io)
 
 <!--- ![GitHub metrics](https://metrics.lecoq.io/Mr-koder) --->
