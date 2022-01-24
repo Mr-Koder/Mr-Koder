@@ -49,7 +49,7 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 [![SVN Badge](https://img.shields.io/badge/Code-SVN-informational?style=flat&logo=subversion&logoColor=white&color=4AB197)](https://subversion.apache.org)
 
 <details>
-<summary>More Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 25px width = 30px>
+<summary>More Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>
   </summary>
 <br>
 
