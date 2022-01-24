@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ---> Default
 
-<img src="https://i.gifer.com/4P3g.gif" height = "200" width="500" />
+<img src="https://github.com/Mr-Koder/Mr-Koder/blob/main/4P3g.gif" height = "200" width="500" />
 
 <!---[![Visits Badge](https://badges.pufler.dev/visits/Mr-Koder/Mr-Koder)](https://Mr-Koder.github.io)--->
 ![Profile views](https://gpvc.arturio.dev/Mr-Koder)
