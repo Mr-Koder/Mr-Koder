@@ -25,7 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 <br>
 
 <!--- ## &#x1f4c8; GitHub Stats (old one) --->
-## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> GitHub Stats
+## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> GitHub Stats &#x1f4c8
 
 <a href="https://github.com/Mr-Koder">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Koder&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
