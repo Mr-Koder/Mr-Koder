@@ -71,7 +71,8 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 --->
 
 ## 📣 How about a joke before you go? 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme-radical&hideBorder&bgColor=none)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme-radical&bgColor=none)
+<!---![Jokes Card](https://readme-jokes.vercel.app/api?theme-radical&hideBorder&bgColor=none) --->
 <br>
 
 ## 📝 Latest Blog Posts
