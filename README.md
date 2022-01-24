@@ -24,6 +24,10 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 <!--- ![GitHub metrics](https://metrics.lecoq.io/Mr-koder) --->
 <br>
 
+## Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://Mr-Koder.github.io)
+<br>
+
  <!--- ## &#x1f4c8; GitHub Stats (old one) --->
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> GitHub Stats
 
