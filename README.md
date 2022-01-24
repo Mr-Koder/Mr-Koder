@@ -21,7 +21,7 @@ Thank You for taking the time to view my GitHub Profile ...
 
 Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io)
 
-![GitHub metrics](https://metrics.lecoq.io/Mr-Koder)
+<!--- ![GitHub metrics](https://metrics.lecoq.io/Mr-Koder) --->
 <br>
 
 <!--- ## 🤝 Connect with me (old one) --->
