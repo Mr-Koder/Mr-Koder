@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![Profile views](https://gpvc.arturio.dev/Mr-Koder)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/)
 
-## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 I'm Mr Koder, Upcoming ...
 Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io)
 
