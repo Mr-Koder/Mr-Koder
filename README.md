@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/)
 
 <h1> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-I'm Mr Koder, Thank You for taking the time to view my GitHub Profile.
+Thank You for taking the time to view my GitHub Profile ...
 
 Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io)
 
@@ -37,7 +37,7 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 <br>
 <br>
 
-## 💼 Skills
+## 💼 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 [![C Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)](https://www.cprogramming.com)
 [![C++ Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=4AB197)](https://www.w3schools.com/cpp)
