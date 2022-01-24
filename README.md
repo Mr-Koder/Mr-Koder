@@ -25,7 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://Mr-Koder.github.io
 <br>
 
 ## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://Mr-Koder.github.io)
+[<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' alt='github' height='40'>](https://Mr-Koder.github.io)
 <br>
 
  <!--- ## &#x1f4c8; GitHub Stats (old one) --->
